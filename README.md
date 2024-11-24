@@ -1,13 +1,13 @@
 - [x]   1. Introduction     
-2. Prerequisites
-3. Naive Bayes
-    i. MultinomialNB
-    ii. BernoulliNB
-    iii. and GaussianNB
-4. Performance
-5. Naive Bayes Optimizer
-6. K Nearest Neighbors
-7. Decision Trees
-8. Linear Regression
-9. Logistic Regression
-10. Support Vector Machine
+- [x]   2. Prerequisites
+- [x]   3. Naive Bayes
+- [x]       i. MultinomialNB
+- [x]       ii. BernoulliNB
+- [x]       iii. and GaussianNB
+- [x]   4. Performance
+- [x]   5. Naive Bayes Optimizer
+- [x]   6. K Nearest Neighbors
+- [x]   7. Decision Trees
+- [x]   8. Linear Regression
+- [x]   9. Logistic Regression
+- [x]   10. Support Vector Machine
