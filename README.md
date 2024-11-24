@@ -1,4 +1,4 @@
-1. Introduction     
+- [x]   1. Introduction     
 2. Prerequisites
 3. Naive Bayes
     i. MultinomialNB
