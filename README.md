@@ -1,4 +1,4 @@
-- [x]1. Introduction     
+- [x] 1. Introduction     
 - [x]   2. Prerequisites
 - [x]   3. Naive Bayes
 - [x]       i. MultinomialNB
@@ -10,4 +10,4 @@
 - [ ]   7. Decision Trees
 - [ ]   8. Linear Regression
 - [ ]   9. Logistic Regression
-- [ ]10. Support Vector Machine
+- [ ] 10. Support Vector Machine
