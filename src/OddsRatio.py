@@ -12,9 +12,13 @@ data = pd.DataFrame({
 X = data[['Treatment']]
 y = data['Outcome']
 
+
+
 # লজিস্টিক রিগ্রেশন
 model = LogisticRegression()
 model.fit(X, y)
+
+
 
 # Coefficient থেকে Odds Ratio বের করা
 odds_ratio = np.exp(model.coef_[0][0])
