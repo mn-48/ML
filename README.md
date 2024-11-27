@@ -11,5 +11,5 @@
 - [x]   7. Decision Trees (CART) 🌲
 - [x]   8. Linear Regression
 - [x]   9. Logistic Regression
-- [ ]   10. Support Vector Machine
+- [x]   10. Support Vector Machine
 *Unsupervised Learning*
