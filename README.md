@@ -15,5 +15,5 @@
 - [x]   10. Support Vector Machine
 
 *Unsupervised Learning*
-- [x]   11. Support Vector Machine
+- [x]   11. K-means
 
