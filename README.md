@@ -84,4 +84,31 @@ ___________________________________________________________________________
         - Pre-trained Models
 
 - [x]   15. Recurrent Neural Networks
+        - Recurrent Neural Network
+        - Hidden State
+        - Cell State
+        - Backpropagation Through Time
+        - Long Short-term Memory 
+        - Gate Recurrent Unit
+        - Embedding Layer
+        - Gradient Clipping
+        
 - [x]   16. Generative Adversail Neural Networks
+        - Generative Adversail Networks
+        - Model Collapse
+
+___________________________________________________________________________
+*Recommender Systems*
+- [x]   17. Collaborative and Content Based Filtering
+        - Content Filtering
+        - Colaborative Filtering better than Content Filtering
+        - User-item Matrix
+        - Peason Correlation
+        - Time decay
+        - Inverse User frequency
+        - Matrix factorization 
+        - Implicit Rating
+        - SparkML
+        - Cold-start
+        - Echo Chamber
+        - Shilling Attack
