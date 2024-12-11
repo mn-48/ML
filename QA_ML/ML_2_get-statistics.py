@@ -34,12 +34,6 @@ def get_statistics(input_list):
     mean_confidence_interval = [mean-z_score_standard_error, mean+z_score_standard_error]
 
 
-
-
-
-
-    
-
     return {
         "mean": mean,
         "median": median,
