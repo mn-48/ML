@@ -20,11 +20,8 @@ class Metrics():
        print(inersection_cardinality, union_cardinality )
        return inersection_cardinality/union_cardinality
 
-       
-
 
 def distances_and_similarities(X, Y):
-  
    metrics = Metrics()
    return [metrics.euclidean_distance(X, Y),
            metrics.manhattan_distance(X, Y),
