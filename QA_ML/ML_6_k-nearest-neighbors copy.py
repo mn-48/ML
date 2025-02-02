@@ -7,7 +7,6 @@ def predict_label(examples, features, k, label_key="is_intrusive"):
     return round(sum(k_nearest_neighbours_labels)/k)
     
 
-
 def find_k_nearest_neighbors(examples, features, k):
     distances = {}
     for pid, features_label_map in examples.items():
