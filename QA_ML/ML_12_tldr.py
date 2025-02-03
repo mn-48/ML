@@ -39,7 +39,7 @@ def tldr(text_to_summarize):
     sentence_tokens = np.array(sent_tokenize(text_to_summarize))
 
     # Get English stopwords and convert to a list
-    stop_word_list = list(stopwords.words("english"))
+    stop_word_list = list(stopwords.words("english")) 
 
     # Create TF-IDF Vectorizer with custom stopwords
     tf_idf_vectorizer = TfidfVectorizer(stop_words=stop_word_list)
