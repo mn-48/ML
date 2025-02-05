@@ -12,9 +12,8 @@ def get_image_preprocessing_pipeline(input_size, resize):
         layers.RandomCrop(int(resize*.9), int(resize*.9), 3),
         layers.RandomZoom(height_factor=0.1, width_factor=0.1),
         layers.RandomTranslation(height_factor=0.1, width_factor=0.1),
-        layers.RandomBrightness( factor=0.1),
+        layers.RandomBrightness(factor=0.1),
     ])
 
     image_preprocessing_pipeline.build(input_shape=(input_size, input_size, 3))
     return image_preprocessing_pipeline
-   
