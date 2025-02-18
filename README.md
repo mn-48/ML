@@ -1,3 +1,19 @@
+```
+# Data analysis joss
+Data Science from Scratch - Joel Grus
+
+https://www.yankodesign.com/2025/02/04/diy-pomodoro-desk-robot-is-the-cutest-way-to-boost-your-productivity/
+```
+
+### Task 1: 
+```
+[11:15 pm, 17/02/2025] Ishmum: Task -
+
+Daily onek time waste kori ami. Daily productivity calculator lagbe. Kono input dibo na, just amar pc + phone e running thakbe
+[11:15 pm, 17/02/2025] Ishmum: Daily actually productive kisu korsi kototukun eita janabe
+[11:15 pm, 17/02/2025] Ishmum: Kintu data thakbe encrypted
+
+```
 ___________________________________________________________________________
 - [x]   1. Introduction     
 - [x]   2. Prerequisites
